@@ -3,7 +3,7 @@
 .heroContainer {
   display: flex;
   justify-content: space-between;
-  margin: 150px 120px;
+  margin: 200px 120px;
 }
 
 .heroText {

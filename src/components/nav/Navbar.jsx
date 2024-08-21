@@ -9,11 +9,11 @@ function MainNavbar() {
       </div>
       <nav>
         <ul>
-          <li className={styles.navItems}><Link to="/home">Home</Link></li>
-          <li className={styles.navItems}><Link to="/bio">Bio</Link></li>
-          <li className={styles.navItems}><Link to="/resume">Skills</Link></li>
-          <li className={styles.navItems}><Link to="/projects">Projects</Link></li>
-          <li className={styles.navItems}><Link to="/contacts">Contacts</Link></li>
+          <li className={styles.navItems}><Link to="/#home">Home</Link></li>
+          <li className={styles.navItems}><Link to="/#bio">Bio</Link></li>
+          <li className={styles.navItems}><Link to="/#skills">Skills</Link></li>
+          <li className={styles.navItems}><Link to="/#projects">Projects</Link></li>
+          <li className={styles.navItems}><Link to="/#contacts">Contacts</Link></li>
         </ul>
       </nav>
     </div>

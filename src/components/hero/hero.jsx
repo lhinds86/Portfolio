@@ -5,7 +5,7 @@ import HeroImg from '../../assets/heroImg.png'
 
 function Hero() {
   return (
-    <div className={styles.heroContainer}>
+    <div id='home' className={styles.heroContainer}>
       <div className={styles.heroText}>
         <h1 className={styles.heroTitle}>Leon Hinds</h1>
         <h3 className={styles.heroSubtitle}>Jr. Software Engineer</h3>
