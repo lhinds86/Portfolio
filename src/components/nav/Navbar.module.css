@@ -1,0 +1,33 @@
+/* MAIN NAVIGATION STYLES */
+
+.navbarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 120px;
+}
+.navLogo {
+  font-weight: 200;
+  font-size: 2.5rem;
+  color: #3795BD;
+}
+
+nav ul  {
+  display: flex;
+}
+
+nav li {
+  list-style: none;
+  padding: 20px 30px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.navItems a{
+  text-decoration: none;
+  color: #3795BD;
+}
+
+.navItems a:hover {
+  color: #d981f9;
+}

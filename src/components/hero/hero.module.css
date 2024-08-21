@@ -1,0 +1,29 @@
+
+
+.heroContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 150px 120px;
+}
+
+.heroText {
+  margin-top: 120px;
+}
+
+.heroTitle {
+  color: #FFF;
+  font-size: 9rem;
+  font-weight: 300;
+  font-family: "Arsenal SC", sans-serif;
+}
+
+.heroSubtitle {
+  color: #FFF;
+  font-size: 2.3rem;
+  font-weight: 300;
+  font-family: "Arsenal SC", sans-serif;
+}
+
+img.heroImg {
+  width: 600px;
+}
