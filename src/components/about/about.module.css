@@ -22,13 +22,13 @@
 }
 
 .aboutPar {
-  background-color: #3795bd1d;
+  /* background-color: #3795bd1d; */
   color: #FFF;
   font-size: 1.4rem;
   line-height: 2.3;
   word-spacing: 8px;
   margin: 0 0 0 300px;
   border-radius: 10px;
-  box-shadow: 5px 5px 10px #4f4f4f;
+  /* box-shadow: 5px 5px 10px #4f4f4f; */
   text-align: center;
 }

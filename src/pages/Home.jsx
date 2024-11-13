@@ -1,9 +1,10 @@
 
 import '../App.css'
 import MainNavbar from '../components/nav/Navbar'
-import Footer from '../components/footer/Footer'
+// import Footer from '../components/footer/Footer'
 import Hero from '../components/hero/Hero'
 import About from '../components/about/About'
+import Skills from '../components/skills/skills'
 import ScrollToHashElement from "@cascadia-code/scroll-to-hash-element";
 
 
@@ -15,7 +16,8 @@ function Home() {
       <MainNavbar />
       <Hero />
       <About />
-      <Footer />
+      <Skills />
+    
     </div>
   )
 }
